@@ -1,0 +1,111 @@
+.da{
+    width: 2880px;
+    height: 1600px;
+    background: #fbaf08
+}
+#img{
+    width: 900px;
+    height: 500px;
+    display: block;
+    float: left;
+    margin-top: 10px;
+    margin-left: 40px;
+    border-radius: 90px;
+    margin-bottom: 50px;
+    cursor: pointer
+}
+#img1{
+    width: 900px;
+    height: 500px;
+    display: block;
+    float: left;
+    margin-top: 10px;
+    margin-left: 40px;
+    border-radius: 90px;
+    margin-bottom: 50px;
+    cursor: pointer
+}
+#p2{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 10px;
+    display: block;
+    color: #333;
+    
+}
+#h2{
+   
+    width:600px;
+    height: 80px;
+    text-align: center;
+    font-size: 50px;
+    color: #333;
+    border: 1px solid black;
+    border-radius: 80px;
+    margin-left: 1000px;
+    margin-bottom: 20px;
+}
+#eg{
+    color: red;
+    font-family: cursive
+}
+#i{
+     color: white;
+}
+.div7{
+    width: 400px;
+    height: 500px;
+    border: 1px solid white;
+    border-radius: 90px;
+    background:#1d1e22;
+    float: left;
+    margin-top: 10px;
+    margin-left: 1200px;
+    margin-bottom: 50px;
+}
+.div7 h4{
+    font-family: cursive;
+    text-align: center;
+    color: white;
+}
+.div7 input{
+    display: block;
+    margin-top: 10px;
+    margin-left: 110px;
+    
+}
+#footer{
+    height:40px;
+    background: #FFF;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: 1390px;
+    
+}
+#b1{
+    border-radius: 10px;
+    color: white;
+    background: #123;
+    margin-left: 130px;
+    margin-top: 20px;
+    font-family: fantasy;
+    width: 100px;   
+    
+}
+#se{
+    margin-left: 40px;
+    display: block;
+    margin-top: 30px;
+    margin-left: 120px;
+    text-align: center;
+    color: white;
+    border-radius: 40px;
+    background: #123;
+}
+#img5{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-left: 90px; 
+}
